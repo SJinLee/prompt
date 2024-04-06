@@ -9,4 +9,5 @@
 * [gemini guide](https://www.promptingguide.ai/models/gemini)
 * [openai guide](https://platform.openai.com/docs/guides/prompt-engineering/six-strategies-for-getting-better-results)
 * [claude 3](https://www.anthropic.com/claude)
-* [https://arxiv.org/pdf/2401.14423.pdf](https://arxiv.org/pdf/2401.14423.pdf)
+* [Prompt Engineering Guide](https://www.promptingguide.ai/papers)
+  * [PROMPT DESIGN AND ENGINEERING: INTRODUCTION AND ADVANCED METHODS](https://arxiv.org/pdf/2401.14423.pdf)
