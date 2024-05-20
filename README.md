@@ -13,3 +13,5 @@
   * [PROMPT DESIGN AND ENGINEERING: INTRODUCTION AND ADVANCED METHODS](https://arxiv.org/pdf/2401.14423.pdf)
 * [인공지능의 윤리성을 측정하는 데이터셋 ETHICS](https://www.letr.ai/blog/tech-20210917)
 * [네이버 AI 윤리 데이터셋](https://naver-llm-safety.pages.dev/about)
+* [텍스트 윤리검증 데이터](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=558)
+* [인공지능 윤리 연구를 위한 비정형 텍스트 데이터셋](https://aihub.or.kr/aihubdata/data/view.do?dataSetSn=268)
