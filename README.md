@@ -11,3 +11,5 @@
 * [claude 3](https://www.anthropic.com/claude)
 * [Prompt Engineering Guide](https://www.promptingguide.ai/papers)
   * [PROMPT DESIGN AND ENGINEERING: INTRODUCTION AND ADVANCED METHODS](https://arxiv.org/pdf/2401.14423.pdf)
+* [인공지능의 윤리성을 측정하는 데이터셋 ETHICS](https://www.letr.ai/blog/tech-20210917)
+* [네이버 AI 윤리 데이터셋](https://naver-llm-safety.pages.dev/about)
